@@ -1,0 +1,160 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  background-color: #fff;
+  color: #434455;
+}
+
+a {
+  text-decoration: none;
+  color: #2e2f42;
+}
+
+a:hover,
+a:focus {
+  color: #404bbf;
+}
+
+button:hover,
+button:focus {
+  background-color: #404bbf;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+h2 {
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0.02em;
+}
+
+h3 {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+/* HEADR */
+.header {
+}
+.header-navi {
+}
+.logo-text {
+  color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.header-logo-text {
+  color: #2e2f42;
+}
+.navi-all-list {
+}
+.navi-list {
+  font-weight: 500;
+}
+.address {
+  font-style: normal;
+}
+.address-all-list {
+}
+.address-list {
+  color: #434455;
+}
+.main-page {
+}
+.slogan {
+  background-color: #2e2f42;
+}
+.slogan-text {
+  color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+}
+.slogan-button {
+  background-color: #4d5ae5;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+.description {
+}
+.descr-title {
+  /* color: #fff; */
+}
+.descr-all-list {
+}
+.descr-list {
+}
+.descr-list-title {
+  /* line-height: 1.2; */
+}
+.descr-list-text {
+  color: #434455;
+}
+.team {
+  background-color: #f4f4fd;
+}
+.team-title {
+  text-align: center;
+  line-height: 1.11;
+  text-transform: capitalize;
+}
+.team-all-list {
+}
+.team-list {
+  background-color: #fff;
+}
+.team-list-title {
+  /* text-align: center; */
+  /* line-height: 1.2; */
+}
+.team-list-text {
+  color: #434455;
+}
+.portfolio {
+}
+.portfol-title {
+  text-align: center;
+  line-height: 1.11;
+  text-transform: capitalize;
+}
+.portfol-all-list {
+}
+.portfol-list {
+}
+.portfol-list-title {
+}
+.portfol-list-text {
+  color: #434455;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.footer-logo-text {
+  color: #f4f4fd;
+}
+.footer-text {
+  color: #f4f4fd;
+}
