@@ -259,10 +259,10 @@ h3 {
 }
 .footer-logo {
   display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-logo-text {
   color: #f4f4fd;
-  margin-bottom: 16px;
 }
 .footer-text {
   color: #f4f4fd;
